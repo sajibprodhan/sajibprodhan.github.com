@@ -451,14 +451,13 @@ img{
     justify-content: center;
 }
 .slider-item-outer .item-image img {
-    /*width: 200px; */
-    width: 170px;
+    width: 150px;
     border-radius: 100%;
     margin-bottom: 20px;
 }
 .slider-item-outer q {
     color: #fff;
-    font-size: 24px;
+    font-size: 17px;
     display: block;
     font-style: italic;
     font-weight: 400;
